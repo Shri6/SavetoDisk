@@ -31,10 +31,11 @@ body {
 }
 
 .card {
+    margin: auto;
+    padding: 1%;
+    width: 50%;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    width: 50%;
-    height: 50%;
     background-color: #ffffff;
     border-radius: 20px;
 }
