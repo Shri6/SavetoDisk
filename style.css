@@ -29,38 +29,18 @@ body {
     cursor: pointer;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
 }
-@media only screen and (min-width: 992px) {
-    .card {
-        display: inline-block;
-        position: fixed;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        width: 40%;
-        height: 35%;
-        margin: auto;
-        text-align: center;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-        background-color: #ffffff;
-        border-radius: 20px;
-    }
-}
 
-@media only screen and (min-width: 1200px) {
-    .card {
-        display: inline-block;
-        position: fixed;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        width: 40%;
-        height: 35%;
-        margin: auto;
-        text-align: center;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-        background-color: #ffffff;
-        border-radius: 20px;
-    }
-}
+.card {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 40%;
+    height: 35%;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+    border-radius: 20px;
